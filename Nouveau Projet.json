@@ -1,0 +1,23 @@
+{
+  "Id": "01",
+  "Pass": "",
+  "Tarif": "",
+  "Builder": "Randriamasinjaka Maminirina (0349239534)",
+  "DateDebut": "2025-08-24T12:00:00Z",
+  "DateExpiration": "2025-11-20T23:59:00Z",
+  "Ecologie": ["Oui"],
+  "Suivi": ["Oui"],
+  "Signature": [
+"8fc74ef572e44cd7",
+"2c5ab5edf92d307b"
+  ],
+  "Ethologie": [
+"Supprime moi"
+  ],
+  "Botanique": [
+"Inconnue"
+  ],
+  "Population": [
+"Supprime moi"
+  ]
+}
